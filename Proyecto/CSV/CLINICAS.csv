@@ -1,0 +1,31 @@
+ID_CLINICA;ID_CIUDAD;NOMBRE;RIF;TIPO_CONVENIO;ESPECIALIDAD;DIRECCION;TELEFONO;FAX
+1;24;pulvinar arcu et pede.;RII-684785-2;AFILIADA;HOSPITAL;9014 Mollis. Avda.;141-2812;1-960-931-0031
+2;13;turpis egestas. Fusce aliquet magna a neque.;RII-417971-5;AFILIADA;CLINICA;4218 Aliquam Av.;1-285-368-8234;874-4976
+3;23;elit, pellentesque a, facilisis non, bibendum sed, est. Nunc laoreet;RII-393599-9;CONVENIDA;CLINICA;685-9310 Odio Carretera;437-4368;1-518-347-9842
+4;25;auctor.;RIe-725294-3;AFILIADA;HOSPITAL;332-7611 Suspendisse Av.;413-8950;653-4850
+5;17;vitae, sodales at, velit. Pellentesque ultricies;RIA-129596-3;CONVENIDA;CLINICA;8749 Mauris Calle;639-5398;981-0040
+6;23;volutpat nunc sit amet;RIA-149762-2;AFILIADA;CLINICA;Apdo.:604-9424 Praesent Av.;627-3588;620-5182
+7;1;est;RIU-416367-7;AFILIADA;CLINICA;145-9220 Gravida Avenida;323-6677;120-7234
+8;8;neque. In;RIa-793172-9;AFILIADA;CLINICA;Apartado núm.: 831, 7201 Mauris ;1-197-208-3227;101-5918
+9;18;sed sem egestas;RIO-169912-7;CONVENIDA;CLINICA;380-8747 Facilisis C.;1-756-889-9948;515-3743
+10;16;neque. In ornare sagittis felis.;RIe-894148-1;CONVENIDA;CLINICA;578-5205 Aliquet. Carretera;1-129-945-3182;803-8332
+11;13;facilisis vitae, orci. Phasellus dapibus quam;RIO-268953-2;CONVENIDA;HOSPITAL;378-3650 Etiam Avda.;1-466-550-2048;1-690-989-5555
+12;11;porttitor eros nec tellus. Nunc lectus pede, ultrices a, auctor;RIa-665732-8;CONVENIDA;HOSPITAL;7005 Lacinia Av.;912-7205;792-6922
+13;3;neque vitae;RIU-811683-6;CONVENIDA;CLINICA;1143 Facilisis. C/;1-118-128-9117;1-733-280-4200
+14;13;orci. Phasellus dapibus quam quis diam. Pellentesque habitant morbi;RIA-359188-3;AFILIADA;CLINICA;8168 Vitae Ctra.;1-423-511-3610;1-968-343-6265
+15;7;Nullam feugiat placerat velit. Quisque varius. Nam;RIE-454335-3;CONVENIDA;HOSPITAL;626-6392 Eget C/;1-139-560-4851;465-5307
+16;12;In tincidunt congue;RIu-373622-8;CONVENIDA;CLINICA;4141 Eu Av.;1-526-247-5655;1-326-130-7519
+17;20;adipiscing.;RIo-234812-9;CONVENIDA;HOSPITAL;Apdo.:373-8621 Dui ;1-764-616-2109;1-821-288-0785
+18;7;Mauris quis turpis;RIU-642328-6;AFILIADA;CLINICA;Apdo.:928-5297 Dolor Avenida;1-278-555-9867;167-8363
+19;2;erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus;RIA-938262-6;AFILIADA;HOSPITAL;6014 Eget Ctra.;499-9755;189-9014
+20;8;sed libero. Proin sed turpis nec mauris blandit mattis. Cras;RIA-183633-5;AFILIADA;HOSPITAL;Apdo.:739-9707 Sagittis. C.;181-7852;1-829-661-8063
+21;24;aliquet libero. Integer;RIi-384257-6;AFILIADA;CLINICA;792-2500 Euismod Ctra.;294-2425;1-254-163-2315
+22;18;Cras dolor dolor, tempus non, lacinia at, iaculis quis, pede.;RIE-367417-2;AFILIADA;HOSPITAL;Apdo.:515-5199 Proin Carretera;699-9588;558-7094
+23;1;Pellentesque habitant morbi tristique senectus et;RIo-588622-1;CONVENIDA;CLINICA;870 Natoque ;1-135-381-4597;1-823-637-4893
+24;1;dolor, nonummy ac, feugiat non, lobortis quis, pede. Suspendisse;RIu-449788-6;CONVENIDA;CLINICA;Apdo.:438-6002 Ridiculus Calle;1-934-618-0160;1-987-598-6705
+25;16;iaculis quis, pede. Praesent eu dui. Cum sociis natoque;RIO-524247-6;AFILIADA;HOSPITAL;3021 Aliquam Avda.;205-1326;258-8631
+26;6;Phasellus dapibus quam quis diam. Pellentesque habitant morbi;RIA-248579-9;CONVENIDA;CLINICA;2164 Felis C/;756-7213;967-3808
+27;20;orci lacus vestibulum lorem, sit amet;RIu-354446-9;CONVENIDA;HOSPITAL;Apartado núm.: 833, 717 Non, C.;1-347-151-4984;1-511-268-3534
+28;20;nec, eleifend non, dapibus;RIi-654123-6;CONVENIDA;CLINICA;364-4837 Semper Ctra.;1-479-274-8382;1-830-482-6039
+29;15;in consequat enim diam vel arcu. Curabitur ut odio;RIi-523463-8;CONVENIDA;CLINICA;587-2881 Interdum. Calle;416-1252;949-5245
+30;16;vulputate eu, odio. Phasellus at augue id ante dictum;RIi-536394-5;CONVENIDA;CLINICA;504-1788 Nunc. Avda.;198-9673;1-252-342-8208

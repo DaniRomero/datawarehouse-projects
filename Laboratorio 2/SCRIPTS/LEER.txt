@@ -1,0 +1,13 @@
+En estos scripts se encuentra definida la estructura de la BD Transaccional. 
+
+Dispone de:
+	- main.sql --> definición del tablespace y datafile donde se alojara la base de datos, creación de usuarios
+				   y asignacion de permisos
+	- cre_transaccional.sql --> contiene la definición de las tablas y la asignación de claves primarias y 
+								foraneas
+	- insert_transaccional.sql --> contiene las inserciones de la datos 
+
+IMPORTANTE
+
+Antes de la ejecución del archivo 'main.sql' debe cambiar las rutas donde se encuentran los archivos
+a la ubicación física dentro de su equipo 

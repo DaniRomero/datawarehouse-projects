@@ -1,0 +1,31 @@
+ID_CENTRO;ID_CIUDAD;NOMBRE;RIF;TIPO_CENTRO;DIRECCION;TELEFONO;FAX
+1;9;ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia;RIi-653544-1;INSPECCION;Apartado núm.: 623, 4464 Mauris. Avenida;662-7898;420-5312
+2;3;Fusce aliquam, enim nec tempus scelerisque, lorem ipsum sodales purus,;RIa-686862-2;INSPECCION;3247 Ac, Av.;1-456-147-7778;698-0056
+3;6;elit.;RIO-715983-8;INSPECCION;Apdo.:405-2947 Dui. C.;323-6590;707-6415
+4;2;magna.;RIA-929889-1;INSPECCION;Apartado núm.: 413, 3684 Euismod Ctra.;1-191-832-6695;554-5658
+5;20;dolor, nonummy;RIo-881166-3;PERITACION;Apdo.:294-2667 Bibendum ;1-316-878-5671;1-790-807-3339
+6;23;velit. Aliquam nisl. Nulla;RII-341186-8;INSPECCION;Apdo.:251-1641 Elementum Av.;1-748-552-4365;1-257-787-6007
+7;21;semper pretium neque. Morbi quis urna. Nunc;RII-431617-9;INSPECCION;377-7938 Pellentesque Avda.;299-3607;1-497-540-8690
+8;14;eu erat;RIO-774142-8;PERITACION;Apdo.:459-8410 Amet C.;455-4898;114-2127
+9;2;elit fermentum risus, at;RIE-691335-2;INSPECCION;Apdo.:611-8885 Eget, Avenida;754-5565;1-848-858-6507
+10;15;Donec feugiat metus sit amet ante. Vivamus non;RIo-155351-6;INSPECCION;312-1545 Malesuada. Ctra.;474-4598;304-8019
+11;19;vitae diam. Proin dolor. Nulla semper tellus;RIA-729299-1;INSPECCION;634-2243 Cum Avda.;257-1513;820-6416
+12;12;Proin vel arcu eu odio tristique pharetra. Quisque ac;RIu-292527-6;PERITACION;560-5399 Aliquet Calle;850-1880;441-1637
+13;4;adipiscing, enim mi tempor lorem, eget mollis lectus pede et;RIu-521921-8;PERITACION;Apdo.:690-8512 Enim C.;1-424-414-0617;815-3928
+14;25;libero. Proin;RIE-538292-8;INSPECCION;Apdo.:760-3786 Eget C.;1-864-580-9791;1-266-523-6294
+15;16;massa. Vestibulum;RIa-871261-3;INSPECCION;8065 Adipiscing C/;363-4469;1-965-163-3598
+16;24;odio, auctor vitae, aliquet nec, imperdiet nec, leo. Morbi;RIA-668869-9;PERITACION;Apdo.:484-7482 Imperdiet Calle;230-4296;1-244-898-4418
+17;13;Mauris eu turpis. Nulla;RIE-219259-3;INSPECCION;Apdo.:928-1272 Sit Av.;1-280-521-3106;1-604-850-7257
+18;8;lacinia. Sed congue, elit sed consequat;RIA-358722-1;INSPECCION;641-8329 Semper Ctra.;1-537-410-2763;1-176-797-6142
+19;25;quis diam. Pellentesque habitant morbi tristique senectus et netus et;RIi-797747-4;INSPECCION;905-9889 Vestibulum Avda.;1-714-844-5594;468-1386
+20;15;morbi tristique senectus et netus et;RIi-632313-3;PERITACION;1508 Ut Calle;1-499-459-3480;881-4103
+21;25;Mauris nulla.;RIA-181664-1;PERITACION;253-3239 Cum Avda.;563-8154;1-503-642-2337
+22;20;ut ipsum ac mi;RIU-183232-5;INSPECCION;Apdo.:836-3719 Proin C.;1-892-273-1424;560-0713
+23;20;fringilla cursus purus. Nullam scelerisque neque;RII-826328-2;PERITACION;Apdo.:560-8497 Aenean ;317-3729;184-2047
+24;22;neque et nunc. Quisque ornare tortor at;RIA-984792-3;INSPECCION;Apartado núm.: 685, 582 Faucibus Avda.;1-769-633-7930;1-361-415-2122
+25;15;euismod;RII-295275-8;INSPECCION;Apdo.:969-8390 Elementum Calle;470-2669;451-9509
+26;9;mus. Proin vel arcu eu odio tristique pharetra. Quisque ac;RIu-115199-3;INSPECCION;634-9057 Vivamus Carretera;344-1843;1-359-450-2802
+27;25;quis, pede. Praesent eu;RIE-441592-3;INSPECCION;5704 Donec Av.;910-5773;1-675-496-2477
+28;24;parturient montes, nascetur ridiculus mus. Aenean eget magna. Suspendisse;RIa-135559-8;INSPECCION;4310 Neque Carretera;1-200-733-3562;1-282-542-1857
+29;21;vitae, posuere;RIe-851322-5;PERITACION;9183 Proin ;943-4448;1-218-688-5470
+30;6;augue eu tellus. Phasellus elit pede, malesuada vel, venenatis vel,;RIu-178778-9;PERITACION;8285 Magna ;949-5003;604-4030
